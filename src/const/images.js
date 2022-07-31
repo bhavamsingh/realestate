@@ -1,0 +1,1 @@
+export const logos = ["https://funny-daffodil-350bc9.netlify.app/images/logo.png"]

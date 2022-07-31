@@ -1,0 +1,35 @@
+
+.navbar-brand{
+    width: 150px;
+    height: 50px;
+    object-fit: contain;
+}
+.navbar-menus{
+    display: flex;
+    
+}
+.navbar-menus li{
+    list-style-type: none;
+    margin-right: 20px;
+}
+.navbar-menus li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.navbar-menus li a:hover{
+    color: #2ecc71;
+}
+.navbar-buttons a{
+    background-color: #82e0aa;
+    color: #283747;
+    text-decoration: none;
+    padding: 12px 30px;
+    border-radius: 10px;
+}
+.navbar-buttons a:last-child{
+    background-color: #f1c40f;
+    margin-left: 10px;
+}
