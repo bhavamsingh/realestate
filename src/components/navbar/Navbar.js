@@ -1,3 +1,4 @@
+import React from "react";
 import {Container,Row,Col} from "react-bootstrap"
 import { NavLink,Link } from "react-router-dom"
 import { logos } from "../../const/images"
@@ -10,7 +11,7 @@ export default function Navbar(){
                 <img className="navbar-brand" src={logos[0]} />
                 </Col>
                 <Col md={6}>
-                <ul className="navbar-menus">
+                <ul className="navbar-menus mt-3">
                     <li>
                         <NavLink to="/">Home</NavLink>
                     </li>
@@ -26,7 +27,7 @@ export default function Navbar(){
                 </ul>
                 </Col>
                 <Col md={3}>
-                <div className="navbar-buttons ">
+                <div className="navbar-buttons mt-3">
                     <Link to="/login">
                     Login
                     </Link>

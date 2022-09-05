@@ -1,0 +1,76 @@
+.widget-6-container {
+}
+
+.widget-6-title {
+  text-align: center;
+  font-family: "Oswald";
+  font-weight: 800;
+  color: #2c3e50;
+}
+
+.widget-6-subtitle {
+  text-align: center;
+  font-family: "Oswald";
+  font-weight: 800;
+  color: #2c3e50;
+}
+
+.widget-5-card-agent-engaging span {
+  padding: 15px 35px;
+  background-color: #eb984e;
+  border-radius: 10px 0 10px 0;
+  color: #fff;
+  font-family: "Roboto";
+  font-weight: 800;
+  box-shadow: 5px 5px 10px #d8b291;
+  border: 2px solid #fff;
+}
+
+.widget-6-card-profile-img {
+  width: 150px;
+  border-radius: 50%;
+  border: 5px solid rgb(223, 207, 207);
+}
+
+.widget-6-card-location span {
+  font-family: "Roboto";
+  font-weight: 300;
+  color: rgb(77, 68, 68);
+}
+
+.widget-6-card-profile-title {
+  font-size: 20px;
+  font-family: "Oswald";
+  color: rgb(24, 7, 54);
+}
+
+.widget-6-card-social-icons div {
+  padding: 12px;
+  background-color: rgb(248, 236, 236);
+  margin-right: 7px;
+  border-radius: 50%;
+}
+
+.widget-6-card-message {
+  padding: 15px 35px;
+  background-color: #1dc046;
+  border-radius: 10px 0 10px 0;
+  color: #fff;
+  font-family: "Roboto";
+  font-weight: 800;
+  border: 2px solid #fff;
+  text-decoration: none;
+}
+
+.widget-6-card-call {
+  padding: 15px 35px;
+  text-decoration: none;
+  background-color: #18241b;
+  border-radius: 10px 0 10px 0;
+  border: 2px solid #fff;
+}
+
+/* .widget-6-card-fab{
+  border: 1px solid black;
+  /* box-shadow: 5px 10px 5px rgba(0,0,0,0.4); */
+/* }  */

@@ -1,0 +1,39 @@
+
+.widget-1-container{
+    padding: 50px;
+    background-color: #273746;
+}
+.widget-1-container .widget-1-subtitle{
+color: #17a589;
+text-align: center;
+}
+.widget-1-container .widget-1-title{
+    font-size: 25px;
+    text-align: center;
+    color: #f0f3f4;
+    font-family: "Ubuntu";
+    margin-top: -5px;
+}
+.widget-1-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 25px;
+
+}
+.widget-1-col .widget-1-icon{
+    border-radius: 25px 0 25px 0;
+    background-color: #808b96;
+    color: white !important;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.widget-1-col h1{
+    color: white;
+    font-family: "Oswald";
+}
+.widget-1-col p{
+    color: #808b96;
+    font-family: "Roboto";
+}

@@ -1,0 +1,33 @@
+.widget-5-container {
+}
+
+.widget-5-title {
+  text-align: center;
+  font-family: "Oswald";
+  font-weight: 800;
+  color: #2c3e50;
+}
+
+.widget-5-subtitle {
+  text-align: center;
+  font-family: "Oswald";
+  font-weight: 800;
+  color: #2c3e50;
+}
+
+.widget-5-card-overlay {
+  background-color: rgba(234, 236, 238, 0.2);
+  border-radius: 15px;
+}
+
+.widget-5-card-title {
+  font-family: "Oswald";
+  font-weight: 700;
+  color: #fbfcfc;
+}
+
+.widget-5-card-description span {
+  font-size: 30px;
+  font-family: "Roboto";
+  font-weight: 800;
+}
